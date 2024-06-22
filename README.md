@@ -14,16 +14,16 @@
 The objective of this project is to perform Exploratory Data Analytics(EDA) on a Netflix data from the year 2008 to 2021.The main aim of performing EDA is to uncover insights into highly movie rated in a year or over a years,movies directed to how many films,correlations,distributions and outliers through visualization.
 
 ## Key Activities
-->Data Cleaning:Ensurring the dataset is free from inconsistencies and missing values.
-->Data Visualization:Creating visualizations to understand data distributions,trends and relationship.
-->Correlation Analysis:Identifying correaltions between movies released across different years.
+#### ->Data Cleaning:Ensurring the dataset is free from inconsistencies and missing values.
+#### ->Data Visualization:Creating visualizations to understand data distributions,trends and relationship.
+#### ->Correlation Analysis:Identifying correaltions between movies released across different years.
 
 ## Technologies Used
--> Python:The primary programming language for data analysis.
--> pandas:Used for data manipulation and analysis.
--> matplotlib:Employed for creating static,animated and interactive visualization
--> seaborn:Utilized for making statisical graphics that are informative and attractive.
--> numpy:Used for numerical computing.
+#### -> Python:The primary programming language for data analysis.
+#### -> pandas:Used for data manipulation and analysis.
+#### -> matplotlib:Employed for creating static,animated and interactive visualization
+#### -> seaborn:Utilized for making statisical graphics that are informative and attractive.
+#### -> numpy:Used for numerical computing.
 
 ## Key Insights
 -> Correlation Highlights:Found correlation between three features taken from the dataset.
